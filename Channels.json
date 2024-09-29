@@ -1,24 +1,4 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: http://localhost:8080/
-Subject: 
-Date: Sun, 29 Sep 2024 16:40:04 +0530
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--5ZVhYExYCewju8ZlFGRLCfahJU60pCB2YGMSfvY5AF----"
-
-
-------MultipartBoundary--5ZVhYExYCewju8ZlFGRLCfahJU60pCB2YGMSfvY5AF----
-Content-Type: text/html
-Content-ID: <frame-BACBC1DB685F408000AEF9F990806567@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: http://localhost:8080/
-
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>{
-    "title": "TATA PLAY | CHANNELS API",
-    "developers": "Arturo, Strange, Ghost",
-    "channel": "https://dsc.gg/babel-in",
-    "data": [
+[
         {
             "id": "1",
             "title": "INDIA TODAY",
@@ -15848,5 +15828,3 @@ Content-Location: http://localhost:8080/
             "channel_key": "null"
         }
     ]
-}</body></html>
-------MultipartBoundary--5ZVhYExYCewju8ZlFGRLCfahJU60pCB2YGMSfvY5AF------
